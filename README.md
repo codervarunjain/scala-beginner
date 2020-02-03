@@ -1,0 +1,2 @@
+# scala-beginner
+Scala beginner
